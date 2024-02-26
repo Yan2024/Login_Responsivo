@@ -1,0 +1,25 @@
+@media screen and (min-width: 1000px) {
+
+    main.c-login {
+        width: 50vw;
+        display: flex;
+        flex-direction: row-reverse;
+        transition: flex-direction 1s;
+        transition-timing-function: ease;
+    }
+
+    section.c-image {
+        width: 50%;  /* foi necessário estabelecer uma width para o background aparecer na tela*/
+        height: 100%;
+        border-radius: 0px 10px 10px 0px;
+        background-position: 25%;
+    }
+
+    section.c-form {
+        width: 52%;
+    }
+
+    input[type="submit"] {
+        width: 50%;
+    }
+}

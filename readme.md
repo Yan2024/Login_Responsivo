@@ -6,4 +6,4 @@ Projeto construído com a finalidade de treinar responsividade, utilizando o pot
 ![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5)
 
 ## Como Visualizar
-Basta clicar em [Login Responsivo (yan2024.github.io)](https://yan2024.github.io/Login_Responsivo/) que o site abrirá num navegador da web.
+Basta clicar em [Login Responsivo (yan2024.github.io)](https://yan2024.github.io/login-responsivo/) que o site abrirá num navegador da web.
